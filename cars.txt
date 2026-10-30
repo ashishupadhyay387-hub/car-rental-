@@ -1,0 +1,5 @@
+101|Hyundai|Creta|2024|SUV|Petrol|5|2500.00|1
+102|Maruti|Swift|2023|Hatchback|Petrol|5|1500.00|1
+103|Tata|Nexon|2024|SUV|Diesel|5|2200.00|1
+104|Honda|City|2023|Sedan|Petrol|5|2000.00|1
+105|Toyota|Fortuner|2024|SUV|Diesel|7|4500.00|0
